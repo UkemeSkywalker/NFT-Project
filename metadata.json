@@ -1,0 +1,19 @@
+{
+    "description": "Wakanda NFT for black lives", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeirtN78yF3fL2tDDJPvVfJBAkMP7NVyhw26RCxvpaGjE", 
+    "name": "Wakanda Forever",
+    "attributes": [
+          {
+            "trait_type": "Colour", 
+            "value": "Mixed"
+          }, 
+          {
+            "trait_type": "Coolness", 
+            "value": "A lot!"
+          }, 
+          {
+            "trait_type": "Token Standard", 
+            "value": "ERC721"
+          }
+     ]
+  }
